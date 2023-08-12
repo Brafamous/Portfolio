@@ -91,6 +91,7 @@ function HomeScreen(){
                                 <p  className="Hi" style={{color:'white'}}>Hi there!</p>
                                 <h3  className="spider" style={{color:'white'}}>I'm Spider Aliko</h3>
                                 <h2 className={'greeting_headline-2'}>I craft the Web's best!</h2>
+                                <h2 className={'greeting_headline-2'}>I craft the Web's best!</h2>
                                 <div className="row">
                                     <p className="col-md-9 description-p"> I am a web-weaving software engineer who creates exceptional digital experiences that put users first. At ZapTek, we specialize in crafting webs that prioritize accessibility and user-centered design. Let's spin a web that's both beautiful and functional, and take your digital presence to new heights!
                                     </p>
